@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "Research Evaluation: Methods and Scripts"
 authors:
-  - family-names: "Froehlich"
+  - family-names: "Fröhlich"
     given-names: "Holger L."
     affiliation: "Hochschulen für Angewandte Wissenschaften Baden-Württemberg e.V."
 date-released: 2025-09-28
