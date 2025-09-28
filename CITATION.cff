@@ -5,9 +5,9 @@ authors:
   - family-names: "Fröhlich"
     given-names: "Holger L."
     affiliation: "Hochschulen für Angewandte Wissenschaften Baden-Württemberg e.V."
-date-released: 2025-09-28
+date-released: "2025-09-28"
 version: "0.1.0"
-doi: "10.5281/zenodo.xxxxxxx"   # placeholder – insert Zenodo DOI when available
+doi: "10.5281/zenodo.xxxxxxx" 
 url: "https://github.com/Holger-Froehlich/research-evaluation"
 abstract: >
   This repository contains R scripts developed in the context of field studies
@@ -15,4 +15,6 @@ abstract: >
   providing statistical methods and visualizations (balloon plots, heatmaps,
   traffic-light coding, and network graphs) to support the methodological development
   of reviewer panels in research evaluation.
-license: MIT AND CC-BY-4.0
+license:
+  - MIT
+  - CC-BY-4.0
