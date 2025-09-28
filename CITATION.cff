@@ -1,20 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this repository, please cite it as below."
-title: "Research Evaluation: Methods and Scripts"
+title: 'Research Evaluation: Methods and Scripts'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - family-names: "Fröhlich"
-    given-names: "Holger L."
-    affiliation: "Hochschulen für Angewandte Wissenschaften Baden-Württemberg e.V."
-date-released: "2025-09-28"
-version: "0.1.0"
-doi: "10.5281/zenodo.xxxxxxx" 
-url: "https://github.com/Holger-Froehlich/research-evaluation"
-abstract: >
-  This repository contains R scripts developed in the context of field studies
-  on research evaluation. The initial focus is on interrater reliability analysis,
-  providing statistical methods and visualizations (balloon plots, heatmaps,
-  traffic-light coding, and network graphs) to support the methodological development
-  of reviewer panels in research evaluation.
-license:
-  - MIT
-  - CC-BY-4.0
+  - given-names: Holger L.
+    family-names: Froehlich
+    email: froehlich@haw-bw.de
+    affiliation: >-
+      Hochschulen für Angewandte Wissenschaften
+      Baden-Württemberg e.V.
+repository-code: 'https://github.com/Holger-Froehlich/research-evaluation'
+abstract: >-
+  This repository contains R scripts developed in the
+  context of field studies
+    on research evaluation. The initial focus is on interrater reliability analysis,
+    providing statistical methods and visualizations (balloon plots, heatmaps,
+    traffic-light coding, and network graphs) to support the methodological development
+    of reviewer panels in research evaluation.
+keywords:
+  - research evaluation
+  - peer review
+  - interrater reliability
+  - bibliometrics
+license: MIT
+version: V0.1.2
+date-released: '2025-09-28'
